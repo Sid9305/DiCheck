@@ -33,7 +33,7 @@ To run the DiCheck application locally, follow these steps:
 
 1. Clone the repository:
    
-   git clone https://github.com/YourUsername/DiCheck.git
+   git clone https://github.com/Sid9305/DiCheck.git
 2. Navigate to the project directory:
 
 cd DiCheck
